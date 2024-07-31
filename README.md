@@ -1,7 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Augustine! <br/><a href="http://github.com/austinik/">Programmer</a>, <a href="http://github.com/austinik/">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>CTFs</b>
+  - [CTFs]((https://github.com/austinik/CTF))
 
 <!--
-**austinik/austinik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
